@@ -1,0 +1,147 @@
+READ THIS CAREFULLY BECAUSE IT WONOT BE DISPLAY ANOTHER TIME EVEN IF YOU RUN THE PROGRAM
+AFTER PLAYING
+
+1]You will see a TIK TAK TOE game page which contain option
+  and you need to choose the option
+
+2]You choosing option just type first letter of option 
+ and press enter and you will be reedirect to that option.
+
+3]Game Page look like.
+
+              TIC TAK TOE
+
+          Double Player Mode
+          Option
+          Exit
+
+        Choose any one of the above?
+     -->
+
+    In the arrow, you need to provide the first letter of the choices 
+    avaliable in the screen
+    For example,
+        D for Double player Mode
+        O for Option
+        E for Exit
+
+4]If you select Double Player Mode then
+    -->You are asked to two Player Name 
+    -->Just Provide it
+
+    After that, 
+    -->Below like interface is seen
+    
+                     DOUBLE PLAYER MODE       
+
+                Bot(X) vrs Bot(O)
+
+                        |       |
+                        |       |
+                        |       |
+                ------------------------      
+                        |       |
+                        |       |
+                        |       |
+                ------------------------      
+                        |       |
+                        |       |
+                        |       |
+
+        Bot
+        Position:
+    
+    In Position, you need to provide the position of the place
+      which you want to marks
+
+    Position are listed below:
+
+                NW | NN | NE 
+                --------------
+                CW | CC | CE
+                --------------
+                SW | SS | SE 
+    
+    So you just use this Position to tell program that
+      you want to keep your choice in that position.
+
+    By default, Player One is 'X' and Player Two is 'O'
+      and you cannot change that.
+
+    Also Name will be display above the Position 
+     indicating whose turn is now to choose the place.
+
+5]If you select Option then it will reedirect you too to option Page
+  which look like below
+
+
+                  Options
+
+
+              Game Statistics
+              Text Color
+              Screen Brightness
+              How to Play?
+              Developer
+              Back
+
+            Choose any one of the above?    
+         -->
+
+    ~In Game Statistics, you can see the record of the previous game
+      that you have played and result.
+    ~In Text color you can change the color of the Text
+    ~In Screen Brightness you can adjust Brightness 
+    as per the option provided.
+    ~In How to Play? , you can get information on playing game.
+    ~In Developer , you can see who had actually made this game
+    ~Back will redirect you to Game Page.
+
+
+    GAME STATISTICS LOOK LIKE:
+
+    
+                GAME STATISTICS
+
+    DATE         PLAYER ONE PLAYER TWO TIME OF GAME PLAY  RESULT
+
+    Aug 13 2021  A          B                   54sec     Draw
+    Aug 13 2021  C          D                   13sec     D     
+
+
+    TEXT COLOR LOOK LIKE:
+
+    
+                TEXT COLOR
+
+    1 = Blue                 9 = Light Blue  
+    2 = Green                A = Light Green 
+    3 = Aqua                 B = Light Aqua  
+    4 = Red                  C = Light Red   
+    5 = Purple               D = Light Purple
+    6 = Yellow               E = Light Yellow
+    7 = White                F = Bright White
+    8 = Gray
+
+
+    SCREEN BRIGHTNESS LOOK LIKE:
+
+    
+            SCREEN BRIGHTNESS 
+
+          1 =  10% Brightness        
+          2 =  20% Brightness        
+          3 =  30% Brightness        
+          4 =  40% Brightness        
+          5 =  50% Brightness        
+          6 =  60% Brightness        
+          7 =  70% Brightness        
+          8 =  80% Brightness        
+          9 =  90% Brightness        
+          A = 100% Brightness     
+
+
+6]Exit will end the game.
+
+Note:
+Error are not resolve so please give best possible option otherwise game may misbehave.

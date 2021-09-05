@@ -1,0 +1,67 @@
+How to develop this program?
+
+Step one: Flow chart
+
+At first we have made just simple flowchart of the program containing the only the logic of the program. 
+We divide each task to each other of the main logic flowchart
+    Condition who have win the game -->
+    Drawing the board -->
+    Writing the data  to the files -->
+    Compilation of all funciton in single files -->
+
+
+
+Step two: Combining and Discussion of New feature
+
+After we have split the task we had merge all the works in single files and make our game works successfully.But something was missing so we decide to make is a bit advance using the concept we have learn. We sat over 2 hrs and discuss on thetopic how can we make our code look attractive and user friendly as user friendly is what matter alot .
+
+
+
+
+Step three : Advance Flowchart
+
+We then again  sat together virtually and write out next advance flowchart we include extra feature of out game plus with some design
+
+Flowchart --> Sudeep Tiwari
+
+
+
+Step Four: Advance Flowchart Code and Report Writing
+
+Since time was curcial so we have split our task into two part i.e Report Writing and Advance Flowchart Code
+ Advance Flowchart Code --> Susheel Thapa
+ Report Writing  --> Punam Chettri and Neeka Maharjan
+
+
+
+
+Step Five : Compilation of New code into Main code
+
+As we have written new code it was time to merge all the newly code written code in main Code.
+So, we sat together and compile the whole code in the single files.
+Then, after investing 6hrs on it we have finally make our program run successfully. But, it only run for the best input.
+
+Step Six:Error Detection
+
+After we have written the main code we just distribute the main code to all the member. Then, we just search for all the possible error that might cause failure to our program along the position where there was error. Then we have sat together discuss over all the error and fixed those all error which bearly took use another 6 hrs.
+
+
+
+Step Seven : User Feedback
+
+After that we have send out code to our friend and collect their feedback on the Game.
+We have receive all feed back form our freind in two catageroy i.e Error and ..........
+
+Step Eight : Feedback Discussion
+
+After receive all the feedback we have sat together and discussion over those feedback. Then we work out those feedback and again modification the program accordding the their feedback.
+
+These step were repeated till user has been satisfy with all the update.
+
+
+
+
+
+
+
+
